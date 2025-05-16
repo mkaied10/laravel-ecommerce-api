@@ -68,7 +68,7 @@ STRIPE_SECRET=your_stripe_secret
 STRIPE_WEBHOOK_SECRET=your_stripe_webhook_secret
 PAYPAL_CLIENT_ID=your_paypal_client_id
 PAYPAL_CLIENT_SECRET=your_paypal_client_secret
-
+---
 ## 🚀 Running Locally
 
 ```bash
